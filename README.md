@@ -6,3 +6,4 @@ This is my notes and experience in the process of learning Deep learning math pa
 
 ## 目录 Content
 ### [Chapter1 深度学习微积分基础](/content/Chapter1_深度学习微积分基础)
+### [Chapter2_深度学习线性代数基础](/content/Chapter2_深度学习线性代数基础)
