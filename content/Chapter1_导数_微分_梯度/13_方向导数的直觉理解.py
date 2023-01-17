@@ -15,8 +15,4 @@ l向量坐标系为(a, b)
 
 不同方向，导数不一样，这个就叫方向导数。偏导数是方向导数的特例，是沿正x轴方向的和正y轴方向的方向导数。
 
-
-
-https://www.youtube.com/watch?v=InXIDmPCd-I&ab_channel=LongLiangqu
-
 """
