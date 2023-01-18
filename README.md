@@ -5,5 +5,6 @@ This is my notes and experience in the process of learning Deep learning math pa
 这是本人深度学习过程中有关数学基础部分的笔记与心得，也可以作为教程使用。本笔记会不断更新，欢迎指正与交流！
 
 ## 目录 Content
-### [Chapter1 深度学习微积分基础](/content/Chapter1_导数_微分_梯度)
-### [Chapter2_深度学习线性代数基础](/content/Chapter4_线性代数基础)
+### [Chapter1 导数_微分_梯度](/content/Chapter1_导数_微分_梯度)
+### [Chapter2 泰勒展开_梯度下降原理](/content/Chapter2_泰勒展开_梯度下降原理)
+### [Chapter4_线性代数基础](/content/Chapter4_线性代数基础)
