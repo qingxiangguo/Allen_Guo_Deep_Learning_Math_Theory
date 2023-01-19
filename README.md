@@ -7,4 +7,4 @@ This is my notes and experience in the process of learning Deep learning math pa
 ## 目录 Content
 ### [Chapter1 导数_微分_梯度](/content/Chapter1_导数_微分_梯度)
 ### [Chapter2 泰勒展开_梯度下降原理](/content/Chapter2_泰勒展开_梯度下降原理)
-### [Chapter4_线性代数基础](/content/Chapter4_线性代数基础)
+### [Chapter3_线性代数基础](/content/Chapter3_线性代数基础)
