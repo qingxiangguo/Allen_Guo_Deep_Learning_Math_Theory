@@ -31,9 +31,9 @@ dz/dt = ∂z/∂u * du/dt + ∂z/∂v * dv/dt  # ∂由于是两个变量，是�
 
 两边除以Δt，得到：Δz/Δt = ∂z/∂u * Δu/Δt + ∂z/∂v * Δv/Δt
 
-当Δt -> 0，两边求极限，lim Δt -> 0, Δz/Δt = ∂z/∂u * Δu/Δt + ∂z/∂v + Δv/Δt
+当Δt -> 0，两边求极限，lim Δt -> 0, Δz/Δt = ∂z/∂u * Δu/Δt + ∂z/∂v * Δv/Δt
 
-就等于 dz/dt = ∂z/∂u * du/dt + ∂z/∂v + dv/dt
+就等于 dz/dt = ∂z/∂u * du/dt + ∂z/∂v * dv/dt
 
 公式得证。
 
