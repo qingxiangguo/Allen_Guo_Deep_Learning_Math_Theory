@@ -6,8 +6,8 @@ This is my notes and experience in the process of learning Deep learning math pa
 
 ## 目录 Content
 ### [Chapter1_张量及张量运算](/content/Chapter_1)
-### [Chapter2_导数_微分_梯度](/content/Chapter3_泰勒展开_梯度下降原理)
-### [Chapter3_泰勒展开_梯度下降原理](/content/Chapter4_线性代数基础)
+### [Chapter2_导数_微分_梯度](/content/Chapter2_导数_微分_梯度)
+### [Chapter3_泰勒展开_梯度下降原理](/content/Chapter3_泰勒展开_梯度下降原理)
 ### [Chapter4_线性代数基础](/content/Chapter4_线性代数基础)
-### [Chapter5_神经网络算法的基础结构](/content/Chapter4_线性代数基础)
-### [Chapter6_激活函数_梯度_消失_爆炸_神经元死亡](/content/Chapter4_线性代数基础)
+### [Chapter5_神经网络算法的基础结构](/content/Chapter5_神经网络算法的基础结构)
+### [Chapter6_激活函数_梯度_消失_爆炸_神经元死亡](/content/Chapter6_激活函数_梯度_消失_爆炸_神经元死亡)
