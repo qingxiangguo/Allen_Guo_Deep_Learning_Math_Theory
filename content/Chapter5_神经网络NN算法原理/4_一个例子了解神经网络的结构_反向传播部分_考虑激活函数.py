@@ -1,7 +1,7 @@
 # _*_ coding=utf-8 _*_
 
 """
-对于我给定的神经网络，我在求梯度的时候，为了便于理解简化，是省略了激活函数的，
+对于我给定的神经网络，我在求梯度的时候，为了便于理解简化，是省略了激活函数的，不考虑复合函数求导
 但在实际情况中，进入下一层神经元的值，实际上是sigmoid的输出值，包括最后h8的输出值，也是要经过sigmoid输出sigmoid(h8)的。
 
 现在我们将每个神经元的raw输出，设为h1,h2, ... h8，
@@ -59,7 +59,7 @@ h5 = w51*sigmoid(h1) + w52*sigmoid(h2) + w53*sigmoid(h3) + w54*sigmoid(h4) + b5
 其中，
 L = (y真实值-sigmoid(h8))^2
 
-h8 = w81sigmoid(h5) + w82sigmoid(h6) + w83*sigmoid(h7) + b8
+h8 = w81 * sigmoid(h5) + w82 * sigmoid(h6) + w83 * sigmoid(h7) + b8
 
 ∂L/∂h8 = -2 * (y真实值 - sigmoid(h8)) * sigmoid(h8) * (1 - sigmoid(h8))
 
