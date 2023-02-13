@@ -1,4 +1,4 @@
-# Allen_Guo_Deep_Learning_Math_Theory
+# Allen_Guo_Deep_Learning_Math_Theory_深度学习理论
 
 This is my notes and experience in the process of learning Deep learning math part, and can also be used as a tutorial. This note will be updated, welcome to correct and exchange!
 

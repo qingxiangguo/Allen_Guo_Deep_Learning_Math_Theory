@@ -26,7 +26,7 @@ h5 = w51*sigmoid(h1) + w52*sigmoid(h2) + w53*sigmoid(h3) + w54*sigmoid(h4) + b5
 
 h1 = w11 * x1 + w12 * x2 + w13 * x3 + b1  # 输入层是没有激活函数的，直接进来，所以并不是 w11* sigmoid(x1)，这里要注意
 
-所以，∂L/∂h8 = -2(y真实值 - sigmoid(h8)) * sigmoid(h8) * (1- sigmoid(h8))
+所以，∂L/∂h8 = -2 * （y真实值 - sigmoid'(h8)） = -2(y真实值 - sigmoid(h8)) * sigmoid(h8) * (1- sigmoid(h8))
 ∂h8/∂h5 = w81 * sigmoid(h5) * (1- sigmoid(h5))
 ∂h1/∂w11 = x1
 
