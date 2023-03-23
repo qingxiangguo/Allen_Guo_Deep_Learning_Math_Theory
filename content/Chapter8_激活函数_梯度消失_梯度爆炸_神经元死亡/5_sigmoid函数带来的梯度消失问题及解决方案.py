@@ -42,7 +42,11 @@ L = (y真实 - y预测)^2
 y预测 = sigmoid(w*x + b)
 
 所以 dL/dy预测 = -2(y真实 - y预测)
+
 dy预测/dw = sigmoid(w*x + b) * (1 - sigmoid(w*x + b)) *x
+
+# 当然，上面也可以不省略复合函数求导，不直接dy预测/dw ，而是先 dy预测/d (wx+b) 整体求导，然后再 d (wx+b)/ d w，相当于代数了一下
+结果是一样的
 
 所以dL/dw = dL/dy预测 * dy预测/dw = -2(y真实 - y预测) * sigmoid(w*x + b) * (1 - sigmoid(w*x + b)) *x
 
