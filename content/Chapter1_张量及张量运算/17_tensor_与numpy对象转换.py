@@ -1,4 +1,5 @@
 # _*_ coding=utf-8 _*_
+
 '''
 它将一个张量对象转换为numpy.ndarray对象
 转换后的tensor与numpy指向同一地址，所以，对一方的值改变另一方也随之改变
